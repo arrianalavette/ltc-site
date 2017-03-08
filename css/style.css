@@ -1,0 +1,28 @@
+  h1 {
+            color: red;
+            background-color: black;
+            font-size: 72px;
+            font-family: Finger Paint;
+        }
+        
+        h2 {
+            font-family: Swanky and Moo Moo;
+            color: red;
+        }
+        
+        body {
+            background-color: black;
+        }
+        
+        ul,
+        p {
+            color: red;
+        }
+        
+        .smaller-image {
+            width: 175px;
+        }
+        
+        .wrap {
+            max-width: 900px;
+        }
