@@ -1,22 +1,22 @@
   h1 {
-            color: red;
-            background-color: black;
+            color: black;
+           
             font-size: 72px;
             font-family: Finger Paint;
         }
         
         h2 {
             font-family: Swanky and Moo Moo;
-            color: red;
+            color: black;
         }
         
         body {
-            background-color: black;
+            background-color: #3b3b3b;
         }
         
         ul,
         p {
-            color: red;
+            color: black;
         }
         
         .smaller-image {
